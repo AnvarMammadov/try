@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\source\repos\ContactApp\ContactApp\Functions.h(14,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ContactApp\ContactApp\Functions.h(41,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ContactApp\ContactApp\Functions.h(58,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\source\repos\ContactApp\ContactApp\Source.cpp(5,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ContactApp.vcxproj -> C:\Users\User\source\repos\ContactApp\Debug\ContactApp.exe
